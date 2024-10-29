@@ -1,6 +1,7 @@
 # MY_DEMO
 This is my first Git Repository.
 <br>
-Author-Swastik Bastia
+Author-Swastik(Engineer)
 <br>
 day02
+git 
